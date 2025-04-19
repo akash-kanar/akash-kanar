@@ -59,7 +59,10 @@ Here are some ideas to get you started:
 
 ![Akash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akash-kanar&show_icons=true&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akash-kanar&layout=compact&theme=dark)
-![GitHub Streak](https://streak-stats.demolab.com?user=akash-kanar&theme=dark&hide_border=false)
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=akash-kanar&theme=dark&hide_border=false" />
+</div>
+
 
 
 ---
