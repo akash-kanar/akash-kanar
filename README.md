@@ -40,11 +40,11 @@ Here are some ideas to get you started:
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white)
 
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?logo=socket.io&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white
+![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?logo=socket.io&logoColor=white)
 
 ---
 
@@ -59,7 +59,8 @@ Here are some ideas to get you started:
 
 ![Akash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akash-kanar&show_icons=true&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akash-kanar&layout=compact&theme=dark)
-![GitHub Streak](https://streak-stats.demolab.com?user=akash-kanar&theme=dark&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=akash-kanar&theme=dark&hide_border=false)
+
 
 ---
 
