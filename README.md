@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 
 ### 🔗 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/akash-kanar/)
-[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail)](mailto:k.akashkumar2005@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-white?logo=gmail)](mailto:k.akashkumar2005@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-pink?logo=instagram)](https://www.instagram.com/ll___akashhh___ll/?hl=en)
-[![Leetcode](https://img.shields.io/badge/Leetcode-yellow)](https://leetcode.com/u/akashkumar8917/)
+[![Leetcode](https://img.shields.io/badge/Leetcode-yellow?logo=leetcode&logoColor=black)](https://leetcode.com/u/akashkumar8917/)
 
 ---
 
