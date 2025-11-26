@@ -67,5 +67,5 @@ Here are some ideas to get you started:
 
 ---
 
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+> "Everything is new, untill you can't do." – Akash Kanar
 
