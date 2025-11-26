@@ -56,14 +56,9 @@ Here are some ideas to get you started:
 ---
 
 ### 📊 GitHub Stats
-
-![Akash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akash-kanar&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akash-kanar&layout=compact&theme=dark)
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=akash-kanar&theme=dark&hide_border=false" />
-</div>
-
-
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akash-kanar&theme=tokyonight)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akash-kanar&theme=tokyonight)
+![Overall Statistics](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=akash-kanar&theme=tokyonight)
 
 ---
 
